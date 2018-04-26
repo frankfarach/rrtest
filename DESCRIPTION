@@ -3,7 +3,7 @@ Title: A Test of the Reproducible Research Compendium
 Version: 0.0.0.9000
 Authors@R: person("Frank", "Farach", email = "frank.farach@gmail.com", role = c("aut", "cre"))
 Description: Tests the rrtools package for creating research compendia.
-Depends: R (>= 3.5.0)
+Depends: R (>= 3.4.4)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
