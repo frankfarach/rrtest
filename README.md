@@ -3,6 +3,9 @@
 
 # rrtest
 
+[![Travis-CI Build
+Status](https://travis-ci.org/frankfarach/rrtest.svg?branch=master)](https://travis-ci.org/frankfarach/rrtest)
+
 This repository contains the data and code for our paper:
 
 > Authors, (YYYY). *Title of paper*. Name of journal/book
