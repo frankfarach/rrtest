@@ -9,3 +9,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/frankfarach/rrtest
 BugReports: https://github.com/frankfarach/rrtest/issues
+Imports: bookdown
